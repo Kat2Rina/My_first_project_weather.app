@@ -79,12 +79,11 @@ main {
 
 .weather-app-icon {
   font-size: 40px;
-  margin-top: 25px;
-  margin-left: 12px;
+  margin: 0 auto;
 }
 
 .weather-app-temp {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: bold;
 }
 
